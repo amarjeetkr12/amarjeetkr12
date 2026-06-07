@@ -6,7 +6,7 @@ Email Me 👉 ✉️ amarjeetkumar93368@gmail.com For Collaboration/Project or A
 🌱 I’m currently learning: Vivekandanda Global University ,Jaipur
 👯 I’m looking to collaborate on: open source Projects ,Web Development Projects, Java- based Application ,Artificial intelligence Projects
 🤔 I’m looking for help with: Advanced DSA,System Design,Open Source contribution
-💬 Ask me about: Jav, DSA , HTML, CSS, JavaScript, Git & Github
+💬 Ask me about: Java, DSA , HTML, CSS, JavaScript, Git & Github
 📫 How to reach me: amarjeetkumar93368@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love solving coding challenges and building web applications.
