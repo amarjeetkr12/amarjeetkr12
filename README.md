@@ -1,15 +1,19 @@
 
 💫 Hi 👋, I'm Amarjeet Kumar
-aspiring software developer || DSA, WEB Development || Looking for Internship
 
-Email Me 👉 ✉️ amarjeetkumar93368@gmail.com For Collaboration/Project or Anything Else. 😊😊
-🌱 I’m currently learning: Vivekandanda Global University ,Jaipur
-👯 I’m looking to collaborate on: open source Projects ,Web Development Projects, Java- based Application ,Artificial intelligence Projects
-🤔 I’m looking for help with: Advanced DSA,System Design,Open Source contribution
-💬 Ask me about: Java, DSA , HTML, CSS, JavaScript, Git & Github
-📫 How to reach me: amarjeetkumar93368@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I love solving coding challenges and building web applications.
+🚀 Aspiring AI Engineer | Software Developer | Machine Learning Enthusiast
+
+Passionate about building intelligent applications using Artificial Intelligence, Machine Learning, and Software Development. I enjoy solving real-world problems through coding and continuously improving my technical skills.
+
+📧 Email: amarjeetkumar93368@gmail.com
+
+- 🌱 Currently Learning: B.Tech at Vivekananda Global University, Jaipur | Python, Machine Learning, NumPy, Pandas, Data Analysis, TensorFlow, and Deep Learning.
+- 👯 Looking to Collaborate On: Open Source Projects, AI/ML Projects, Web Development Projects, Java Applications, and Generative AI Projects.
+- 🤔 Seeking Help With: Advanced DSA, Machine Learning, Deep Learning, and Open Source Contributions.
+- 💬 Ask Me About:  Java, DSA , HTML, CSS, JavaScript, Git & Github
+- 📫 Reach Me: amarjeetkumar93368@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: I enjoy solving coding challenges, building AI-powered applications, and exploring new technologies.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amarjeetkr12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
